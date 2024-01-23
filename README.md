@@ -1,36 +1,4 @@
-# 💫
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .marquee {
-      width: 100%;
-      overflow: hidden;
-      white-space: nowrap;
-      box-sizing: border-box;
-    }
-    
-    .marquee p {
-      display: inline-block;
-      padding-left: 100%;
-      animation: marquee 15s linear infinite;
-    }
-    
-    @keyframes marquee {
-      0% { transform: translate(100%, 0); }
-      100% { transform: translate(-100%, 0); }
-    }
-  </style>
-</head>
-<body>
-  <div class="marquee">
-    <p>Karla Andino</p>
-  </div>
-</body>
-</html>
-
-python
+# 💫 Hola! soy Karla
 
 
 ## 🌐 Socials:
