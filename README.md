@@ -1,4 +1,6 @@
 # 💫 Hola! soy Karla
+Estoy cursando el grado de Desarrollo de aplicaciones web
+Actualmente estoy enfocada en aprender PHP y Django
 
 
 ## 🌐 Socials:
