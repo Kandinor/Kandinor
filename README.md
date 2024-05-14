@@ -1,5 +1,5 @@
 # 💫 Hola! soy Karla
-Estoy cursando el grado de Desarrollo de aplicaciones web.
+Desarrolladora Web
 
 Actualmente estoy enfocada en aprender PHP y Django.
 
