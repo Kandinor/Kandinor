@@ -1,8 +1,6 @@
 # 💫 Hola! soy Karla
 Desarrolladora Web
 
-Actualmente estoy enfocada en aprender PHP y Django.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karla-andino/) 
